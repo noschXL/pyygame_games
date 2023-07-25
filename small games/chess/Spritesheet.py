@@ -1,5 +1,7 @@
 # spritesheet class
 
+pathdir = os.path.dirname(os.path.abspath(__file__))
+
 class SpriteSheet:
 
     def __init__(self, filename):
