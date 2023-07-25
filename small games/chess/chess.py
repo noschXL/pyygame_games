@@ -4,6 +4,7 @@ import time
 import sys
 import random
 from Pieces import *
+from Spritesheet import *
 # Load pygame
 pygame.init()
 pygame.mixer.init()
